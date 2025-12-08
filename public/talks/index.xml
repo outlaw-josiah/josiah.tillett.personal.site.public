@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Josiah Tillett</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Josiah Tillett</description>
+    <title>Talks on Josiah Tillett</title>
+    <link>http://localhost:1313/talks/</link>
+    <description>Recent content in Talks on Josiah Tillett</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Feb 2025 18:50:38 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sat, 01 Feb 2025 18:50:38 -0500</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Josiah is a skilled IT Professional from the Baltimore/Washington DC Area who specializes in DevOps, incident response, and workflow analysis. His work experience has given him a love of problem solving and engaging with unique situations. He has a strong background in open-source, and enjoys working in fast-paced environments with rapidly changing needs. In his day job, Josiah is a member of &lt;a href=&#34;https://adaptavist.com&#34;&gt;Adaptavist&amp;rsquo;s&lt;/a&gt; North American DevOps consulting team, where he spends his days helping clients revamp their development practices and build robust automation to support their strategies.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Certifications</title>
-      <link>http://localhost:1313/certifications/</link>
-      <pubDate>Sat, 01 Feb 2025 18:50:38 -0500</pubDate>
-      <guid>http://localhost:1313/certifications/</guid>
-      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Logo&lt;/th&gt;&#xA;          &lt;th&gt;Certification&lt;/th&gt;&#xA;          &lt;th&gt;Acquired&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/img/solutionsarchitect.png&#34;  class=&#34;left&#34;  /&gt;&#xA;&#xA;&lt;/td&gt;&#xA;          &lt;td&gt;AWS Solutions Architect Associate&lt;/td&gt;&#xA;          &lt;td&gt;Aug. 2022&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/img/cloudpracticioner.png&#34;  class=&#34;left&#34;  /&gt;&#xA;&#xA;&lt;/td&gt;&#xA;          &lt;td&gt;AWS Cloud Practicioner&lt;/td&gt;&#xA;          &lt;td&gt;Nov. 2023&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/img/gitassociate.png&#34;  class=&#34;left&#34;  /&gt;&#xA;&#xA;&lt;/td&gt;&#xA;          &lt;td&gt;GitLab Git Associate&lt;/td&gt;&#xA;          &lt;td&gt;Feb. 2025&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/img/projectmanager.png&#34;  class=&#34;left&#34;  /&gt;&#xA;&#xA;&lt;/td&gt;&#xA;          &lt;td&gt;GitLab Project Manager Associate&lt;/td&gt;&#xA;          &lt;td&gt;Feb. 2025&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/img/naui.png&#34;  class=&#34;left&#34;  /&gt;&#xA;&#xA;&lt;/td&gt;&#xA;          &lt;td&gt;NAUI Open Water SCUBA&lt;/td&gt;&#xA;          &lt;td&gt;Feb. 2024&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/img/wogk.png&#34;  class=&#34;left&#34;  /&gt;&#xA;&#xA;&lt;/td&gt;&#xA;          &lt;td&gt;Nidan (Second Degree Black Belt)&lt;/td&gt;&#xA;          &lt;td&gt;Apr. 2017&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
-    </item>
+    <lastBuildDate>Thu, 09 Jan 2025 18:50:38 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MAGFest New Volunteer Orientation</title>
       <link>http://localhost:1313/talks/nvo2025/</link>

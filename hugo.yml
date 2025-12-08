@@ -1,8 +1,21 @@
-baseURL: "https://outlaw-josiah.github.io/josiah.tillett.personal.site/"
+baseURL: http://example.org
 languageCode: en-us
 params:
   contact:
     email: jatillett95@gmail.com
   subtitle: DevOps Expert
+  homeSubtitle: DevOps, volunteer coordination, martial arts, live sound
 title: Josiah Tillett
-theme: hugo-theme-hello-friend-ng
+sectionPagesMenu: main
+theme: "hugo-theme-hello-friend-ng"
+menus:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 10
+    - name: About
+      pageRef: /about
+      weight: 20
+    - name: Contact
+      pageRef: /contact
+      weight: 30

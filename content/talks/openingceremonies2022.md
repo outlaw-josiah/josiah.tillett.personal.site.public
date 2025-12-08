@@ -7,6 +7,4 @@ title = 'MAGFest 2022 Opening Ceremonies'
 
 {{< youtube 0lBYASGAQ3w >}}
 
-{{< line_break >}}
-
 Join Carrie, Josiah, Dac, and Poch as they lead you through some of the things you should know before you attend your first MAGFest event!
