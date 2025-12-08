@@ -1,0 +1,8 @@
+baseURL: https://example.org/
+languageCode: en-us
+params:
+  contact:
+    email: jatillett95@gmail.com
+  subtitle: DevOps Expert
+title: Josiah Tillett
+theme: hugo-theme-hello-friend-ng
