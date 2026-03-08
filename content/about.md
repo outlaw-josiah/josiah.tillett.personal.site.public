@@ -16,6 +16,7 @@ When not volunteering with MAGFest, Josiah also runs JAT Audio, his A/V producti
 
 | Place   | Role | Since |  
 |---------|------|-------|
-| {{< image src="/img/magfest.jpg" title="" height="100" width="200">}} | Volunteer Coordinator | Jan. 2014 |
-| {{< image src="/img/adaptavist.png" title="" height="100" width="200">}} | DevOps Consultant | Oct. 2021 |
-| {{< image src="/img/jataudio.png" title="" height="100" width="200">}} | Owner/Operator | May 2013 |
+| {{< image src="/img/adaptavist2.png" title="" >}} | DevOps Consultant | Oct. 2021 |
+| {{< image src="/img/magfest2.png" title="" >}} | Volunteer Coordinator | Jan. 2014 |
+| {{< image src="/img/vgmcon.png" title="" >}} | Head of Audio | Apr. 2025 |
+| {{< image src="/img/jataudio.png" title="" >}} | Owner/Operator | May 2013 |
