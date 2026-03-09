@@ -24,6 +24,8 @@ jobs:
       NODE_VERSION: 24.13.1
       TZ: Europe/Oslo
     steps:
+      - name: Checkout
+        uses: actions/checkout@v6
       - name: Setup Go
         uses: actions/setup-go@v6
         with:
@@ -79,6 +81,7 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
+        working_directory: 
       - name: Cache save
         id: cache-save
         uses: actions/cache/save@v5
